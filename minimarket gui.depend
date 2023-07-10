@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1641214395 source:d:\smt 1\computing career and programmings\assignment\minimarket gui\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<sstream>
+
